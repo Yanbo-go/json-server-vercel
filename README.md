@@ -1,11 +1,3 @@
-## Deploy JSON Server to Vercel
-
-A template to deploy [JSON Server](https://github.com/typicode/json-server) to [Vercel](https://vercel.com), allow you to run fake REST API online!
-
-Demo from this repository: 
-
-1. https://json-server-in.vercel.app
-2. https://json-server-in.vercel.app/api/posts
 
 ### How to use
 
@@ -29,9 +21,3 @@ Demo from this repository:
   "profile": { "name": "typicode" }
 }
 ```
-
-## Reference
-
-1. https://github.com/typicode/json-server
-2. https://vercel.com
-3. https://shadowsmith.com/how-to-deploy-an-express-api-to-vercel
